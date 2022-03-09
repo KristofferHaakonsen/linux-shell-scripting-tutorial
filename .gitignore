@@ -1,2 +1,2 @@
-./demos
-./exercises
+demos/**
+exercises/**
