@@ -59,10 +59,11 @@ fi
 # Display user information
 echo '------------------------------------'
 echo 'User creation completed'
+echo "Host: ${HOSTNAME}"
 echo "User name: ${USER_NAME}"
 echo "Password: ${PASSWORD}"
 echo '------------------------------------'
-
+exit 0
 
 
 
